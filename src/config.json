@@ -1,0 +1,10 @@
+{
+  "env": "dev",
+  "server": {
+    "port": 55551
+  },
+  "mongodb": {
+    "uri": "mongodb://localhost:27020",
+    "dbName": ""
+  }
+}
